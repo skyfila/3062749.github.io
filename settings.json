@@ -1,0 +1,11 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/*.log": true,
+        "**/.*": true,
+        "**/*.csproj": true,
+        "**/bin": true,
+        "**/obj": true
+    },
+    "liveServer.settings.port": 5501
+}
