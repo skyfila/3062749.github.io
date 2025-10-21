@@ -1,0 +1,33 @@
+
+body {
+    background-color: darkolivegreen;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#site_title {
+    width: 50%;
+    margin-right: auto;
+    margin-left: auto;
+    font-size: 40pt;
+}
+
+#website_links {
+    margin: auto;
+}
+
+a {
+    display: block;
+    width: 50%;
+    margin: auto;
+    font-size: large;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+a:first-of-type {
+    padding-top: 30px;
+}
+a:last-of-type {
+    padding-bottom: 50px;
+}
