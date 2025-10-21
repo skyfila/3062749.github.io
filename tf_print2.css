@@ -19,7 +19,7 @@
 
 /* Hidden Objects */
 
-nav, body > header h1, section:first-of-type, body > footer {
+nav, body > header h1, section:first-of-type {
    display: none;
 }
 
