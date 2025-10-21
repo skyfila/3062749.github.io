@@ -16,7 +16,7 @@
 
 /* Hidden Objects */
 
-nav, footer, article {
+nav, article {
    display: none;
 }
 
